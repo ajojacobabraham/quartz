@@ -1,3 +1,9 @@
+---
+title: "Install Hyper V on W11 Home"
+tags:
+- tech
+---
+
 #tech 
 
 1. Enable HW Virtualization 

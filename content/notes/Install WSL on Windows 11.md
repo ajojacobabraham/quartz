@@ -1,3 +1,9 @@
+---
+title: "Install WSL on W11"
+tags:
+- example-tag
+---
+
 tags: #tech
 #wsl
 #howto
